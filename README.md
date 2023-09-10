@@ -5,7 +5,7 @@
 ## 환경세팅
 - 사용 언어 : java (jdk 12.0.2), JavaScript, css, html
 - 사용 툴 : Eclipse
-- 데이터베이스 : Mysql
+- 데이터베이스 : Mysql8
 - 서버 : Tomcat
 - 테스트 브라우저 : Chrome, Edge
 
