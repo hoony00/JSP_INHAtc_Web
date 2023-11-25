@@ -1,14 +1,40 @@
 # 인하공업전문대학 홈페이지 프로젝트
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/541566df-4152-4552-85ac-0c255dacb226.png)
 
-## 프로젝트 개요
+-----------
+# 프로젝트 개요
 이 프로젝트는 인하공업전문대학의 홈페이지를 개발한 웹 개발자의 포트폴리오입니다. 이 홈페이지는 JSP를 기반으로 만들어져 있으며, 회원 관리, 게시판, Kakao 맵을 포함한 다양한 기능을 제공합니다.
+
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/af637a19-0c92-430e-a0a9-0e95d1f749fb.png)
+
 ## 환경세팅 및 기술 스택
 - 사용 언어 : java (jdk 12.0.2), JavaScript, css, html
 - 사용 툴 : Eclipse
 - 데이터베이스 : Mysql8
 - 서버 : Tomcat
 - 테스트 브라우저 : Chrome, Edge
-- - - 
+
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/11bbb2e1-1fdb-4c78-8aeb-752f28e22436.png)
+
+
+
+----------
+# 화면 리스트
+
+### 로그인 회원가입
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/3f0d8128-d6c7-4d1b-ae80-20ed5078b1bc.png)
+
+### 학점 계산기
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/70e34de6-3f80-4afa-befc-536a50010f11.png)
+
+### 게시판
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/dd19104f-e849-4240-a596-130fd7ad72e8.png)
+
+### 건물정보
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/db033c69-7031-4011-b171-c9bf3c40c90a.png)
+
+
+
 ## 주요 기능
 1. 게시판: 웹사이트 내에 다양한 게시판을 구현했습니다. 사용자는 각 게시판에서 글을 작성, 조회, 댓글 달기, 글 수정 및 삭제가 가능합니다.
 
@@ -33,7 +59,6 @@
  
 - 깨달은 점:
 1. 효율적인 데이터베이스 설계는 S/W의 성능과 유지보수성에 큰 영향을 미칩니다.
-2. 데이터베이스 분할 및 분리는 성능 최적화와 데이터 관리를 용이하게 만듭니다.
-
+2. 데이터베이스의 정규화와 반정규화를 적절히 활용하고 테이블 파티셔닝 기법을 깊이 학습하여 성능 최적화와 데이터 관리를 용이하게 만드는 데 노력해야 할 것 같습니다.
 
 
