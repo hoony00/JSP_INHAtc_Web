@@ -33,7 +33,8 @@
 ### 건물정보
 ![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/db033c69-7031-4011-b171-c9bf3c40c90a.png)
 
-
+#### SALT 이용 암호화 (SHA - 512)
+![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/0909d1fd-efd3-439c-9fbc-1543f3f964e6.png)
 
 ## 주요 기능
 1. 게시판: 웹사이트 내에 다양한 게시판을 구현했습니다. 사용자는 각 게시판에서 글을 작성, 조회, 댓글 달기, 글 수정 및 삭제가 가능합니다.
